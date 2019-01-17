@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans');
+
+.flippy-container {
+    margin-bottom: 20px;
+  }
+
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+  .cardTitle{
+    font-size: 30px;
+    padding:0;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: black;
+    margin: 0%;
+    padding: 0%,
+  }
+
+  p{
+    font-size: 15px;
+    padding-bottom:0px;
+    margin-bottom: 0px;
+    font-family: "Open Sans", serif;
+    color: black;
+  }
+
+ .cardList{
+    color:black;
+    font-family: "Open Sans", serif;
+    text-align: left ;
+    
+  }
