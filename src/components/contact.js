@@ -13,7 +13,7 @@ class Contact extends Component {
                 <p></p>
                 <SocialIcon url="https://www.linkedin.com/in/emily-mcgonagle-8a9258150/" />
                 <SocialIcon url="https://github.com/EmilyMcGonagle" />
-                <p><b>Email: </b>Emily.mcgonagle@accenture.com</p>
+                <p><b>Email: </b>Emily.mcgonagle@outlook.com</p>
                 <Footer />
           </Fade>
       </div>
