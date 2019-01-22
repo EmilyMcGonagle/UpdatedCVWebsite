@@ -1,7 +1,7 @@
 {
   "main.css": "/UpdatedCVWebsite/static/css/main.7e49efa7.chunk.css",
-  "main.js": "/UpdatedCVWebsite/static/js/main.743d39a0.chunk.js",
-  "main.js.map": "/UpdatedCVWebsite/static/js/main.743d39a0.chunk.js.map",
+  "main.js": "/UpdatedCVWebsite/static/js/main.ef2fb115.chunk.js",
+  "main.js.map": "/UpdatedCVWebsite/static/js/main.ef2fb115.chunk.js.map",
   "static/css/1.4d3ae5c1.chunk.css": "/UpdatedCVWebsite/static/css/1.4d3ae5c1.chunk.css",
   "static/js/1.965f06e2.chunk.js": "/UpdatedCVWebsite/static/js/1.965f06e2.chunk.js",
   "static/js/1.965f06e2.chunk.js.map": "/UpdatedCVWebsite/static/js/1.965f06e2.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/media/react.png": "/UpdatedCVWebsite/static/media/react.80687d23.png",
   "static/css/main.7e49efa7.chunk.css.map": "/UpdatedCVWebsite/static/css/main.7e49efa7.chunk.css.map",
   "index.html": "/UpdatedCVWebsite/index.html",
-  "precache-manifest.d0b11d2d0fbfa3af0e2fdd1a41936ef8.js": "/UpdatedCVWebsite/precache-manifest.d0b11d2d0fbfa3af0e2fdd1a41936ef8.js",
+  "precache-manifest.a2268bda7b75663113c5b6aff1f3cef1.js": "/UpdatedCVWebsite/precache-manifest.a2268bda7b75663113c5b6aff1f3cef1.js",
   "service-worker.js": "/UpdatedCVWebsite/service-worker.js"
 }

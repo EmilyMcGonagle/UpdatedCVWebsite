@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/UpdatedCVWebsite/static/js/runtime~main.2be200f4.js"
   },
   {
-    "revision": "743d39a07b73b4a164be",
-    "url": "/UpdatedCVWebsite/static/js/main.743d39a0.chunk.js"
+    "revision": "ef2fb115349c1d2fffa8",
+    "url": "/UpdatedCVWebsite/static/js/main.ef2fb115.chunk.js"
   },
   {
     "revision": "965f06e2140568c45980",
     "url": "/UpdatedCVWebsite/static/js/1.965f06e2.chunk.js"
   },
   {
-    "revision": "743d39a07b73b4a164be",
+    "revision": "ef2fb115349c1d2fffa8",
     "url": "/UpdatedCVWebsite/static/css/main.7e49efa7.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/UpdatedCVWebsite/static/css/1.4d3ae5c1.chunk.css"
   },
   {
-    "revision": "2473be037f7ab558d5a929fa60223922",
+    "revision": "56251e4a9a65a75fa9858fabbed66dcf",
     "url": "/UpdatedCVWebsite/index.html"
   }
 ];
