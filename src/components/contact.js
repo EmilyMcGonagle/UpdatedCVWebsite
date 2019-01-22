@@ -9,6 +9,7 @@ class Contact extends Component {
     return (
       <div>
           <Fade top>
+                <h2>Contact</h2>
                 <p>Feel free to get in touch with me, below is my email address and LinkedIn. There is also a link to my GitHub, so you can check out my other projects!</p>
                 <p></p>
                 <SocialIcon url="https://www.linkedin.com/in/emily-mcgonagle-8a9258150/" />
